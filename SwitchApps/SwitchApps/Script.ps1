@@ -1,6 +1,4 @@
-﻿# Creator: Jahanara Bagom
-# Script.ps1
-# Version: 1.00
+﻿# Version: 1.00
 
 $wshell = New-Object -ComObject wscript.shell;
 #If 1 is less than 2, then activate Internet explorer
